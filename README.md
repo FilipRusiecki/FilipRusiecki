@@ -1,6 +1,6 @@
 ### Hi, I'm Filip 👋
+[:](https://github.com/FilipRusiecki/FilipRusiecki/blob/main/background1.png?raw=true)
 
-https://github.com/FilipRusiecki/FilipRusiecki/blob/main/background1.png
 <!--
 **FilipRusiecki/FilipRusiecki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
