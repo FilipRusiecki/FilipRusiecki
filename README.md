@@ -1,5 +1,6 @@
 ### Hi, I'm Filip 👋
-![image](https://user-images.githubusercontent.com/57904846/112326725-aaa2ed80-8cac-11eb-8dc3-086fabba3dfd.png)
+![image](https://user-images.githubusercontent.com/57904846/112327466-5c421e80-8cad-11eb-8d55-babba57dbb74.png)
+
 
 
 <!--
