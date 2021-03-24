@@ -4,17 +4,43 @@
 
 
 ## What I do in spare time?
-I like to code 💻, learn new verbal languages 💬, Customize/Mode existing games 🛠 and love taking care of my pets 🐶 
+I like to code 💻, learn new verbal languages 💬, Customize/Mode existing games 🛠 Video Edit 📽 and love taking care of my pets 🐶 
 
 
 ## What am I passionate about?
 I am passionate about level making/world creation for games, Currently working on maps for Counter-Strike:Global-Offensive.
 
 Check them out [Here](https://steamcommunity.com/id/SiPsenior/myworkshopfiles/)
-Latest map preview:
 
 
-![image](https://user-images.githubusercontent.com/57904846/112329898-7e3ca080-8caf-11eb-8f18-0b7cced27d42.png)
+Latest map preview: This map has well over 11K downloads, and im super proud of it
+![image](https://user-images.githubusercontent.com/57904846/112329898-7e3ca080-8caf-11eb-8f18-0b7cced27d42.png) 
+
+
+## What languages do i know?
+💬 *C++, Css, Html, Java Script, YAML*
+
+## What Programs I use?
+**Programming:**
+Visual Studio 2019, Visual Studio Code, Notepad++
+
+**Image Editors:**
+Photoshop, Gimp 2, Paint.Net.
+
+**Video Editors:**
+Sony Vegas pro, Premier Pro, Filmora 9.
+
+**Audio Editors:**
+Audacity, FL Studio.
+
+**Map Editors:**
+Hammer World Editor
+
+**Map Compilers:**
+PakRat, VIDE
+
+**Texture Converters:**
+VTFEDIT
 
 
 <!--
