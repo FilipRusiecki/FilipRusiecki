@@ -4,7 +4,7 @@
 
 
 ## What I do in spare time?
-I like to code 💻, learn new verbal languages 💬, Customize/Mode existing games 🛠 Video Edit 📽 and love taking care of my pets 🐶 
+I like to code 💻, learn new verbal languages 💬, Customize/Mod existing games 🛠 Video Edit 📽 and love taking care of my pets 🐶 
 
 
 ## What am I passionate about?
