@@ -1,7 +1,7 @@
-## Projects to show [HERE](https://github.com/FilipRusiecki/ProjectsToShow)
+
 ![image](https://user-images.githubusercontent.com/57904846/112327466-5c421e80-8cad-11eb-8d55-babba57dbb74.png)
 
-
+## Projects to show [HERE](https://github.com/FilipRusiecki/ProjectsToShow)
 
 ## What I do in spare time?
 I like to code 💻, learn new verbal languages 💬, Customize/Mod existing games 🛠 Video Edit 📽 and love taking care of my pets 🐶 
