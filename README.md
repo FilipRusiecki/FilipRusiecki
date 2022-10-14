@@ -44,7 +44,7 @@ VTFEDIT
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=FilipRusiecki&theme=blue-green)
 
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FilipRusiecki&theme=dark)](https://git.io/streak-stats)
 
 ## 😄 Here is a random joke that'll make you laugh! 😄
 ![Jokes Card](https://readme-jokes.vercel.app/api)
