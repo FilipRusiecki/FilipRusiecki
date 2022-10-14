@@ -1,6 +1,6 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=FilipRusiecki)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
-![image](https://user-images.githubusercontent.com/57904846/112327466-5c421e80-8cad-11eb-8d55-babba57dbb74.png)
+![image](https://user-images.githubusercontent.com/57904833/112327466-5c421e80-8cad-11eb-8d55-babba57dbb74.png)
 
 ## Portfolio Projects [HERE](https://github.com/FilipRusiecki/ProjectsToShow)
 
