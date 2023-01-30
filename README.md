@@ -9,7 +9,7 @@ I like to code 💻, learn new verbal languages 💬, Customize/Mod existing gam
 
 
 ## What am I passionate about?
-I am passionate about level making/world creation for games, Currently working on maps for Counter-Strike:Global-Offensive.
+I am passionate about level making/world creation for games, Currently working on Minecraft Mod to be relased in 2023 as well as my own games for steam/mobile, i previously worked on maps for Counter-Strike:Global-Offensive.
 
 Check them out [Here](https://steamcommunity.com/id/SiPsenior/myworkshopfiles/)
 
@@ -19,14 +19,14 @@ Latest map preview: This map has well over 11K downloads, and im super proud of 
 
 
 ## What languages do i know?
-💬 *C++, Css, Html, Java Script, YAML*
+💬 *C++, C#, Lua, Css, Html, Java Script, Java, React Native, YAML* 
 
 ## What Programs I use?
 **Programming:**
-Visual Studio 2019, Visual Studio Code, Notepad++
+Visual Studio 2022, Visual Studio Code, Notepad++
 
 **Image Editors:**
-Photoshop, Gimp 2, Paint.Net.
+Photoshop, Gimp 2, Paint.Net, BlockBench (3D)
 
 **Video Editors:**
 Sony Vegas pro, Premier Pro, Filmora 9.
@@ -42,6 +42,9 @@ PakRat, VIDE
 
 **Texture Converters:**
 VTFEDIT
+
+**Modding Tools:**
+MCreator
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=FilipRusiecki&theme=blue-green)
 #
