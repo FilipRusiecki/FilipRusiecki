@@ -9,7 +9,7 @@ I like to code 💻, learn new verbal languages 💬, Customize/Mod existing gam
 
 
 ## What am I passionate about?
-I am passionate about level making/world creation for games, Currently working on Minecraft Mod to be relased in 2023 as well as my own games for steam/mobile, i previously worked on maps for Counter-Strike:Global-Offensive.
+I am passionate about level making/world creation for games, Currently working on Minecraft Mod to be relased in 2023 as well as my own games for steam/mobile, I also like to write GTA V scripts in Lua, I previously worked on maps for Counter-Strike:Global-Offensive.
 
 Check them out [Here](https://steamcommunity.com/id/SiPsenior/myworkshopfiles/)
 
